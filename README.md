@@ -24,4 +24,6 @@
 
 Original model - https://www.kaggle.com/code/killa92/clothes-segmentation-pytorch-deeplabv3/output
 
+Saved models и ресерч док на гугл диске: https://drive.google.com/drive/folders/1Ba9T19TeIkAtEDbwDUZlN8hXgaf7rPjs?usp=sharing
+
 
